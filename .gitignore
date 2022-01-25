@@ -1,0 +1,15 @@
+.bit/
+.next/
+.settings/
+node_modules/
+out/
+.settings
+*yarn*.log
+
+.yarn/*
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.pnp.*
